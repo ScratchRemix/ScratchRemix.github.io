@@ -15,7 +15,7 @@ var template = function(name, body) {
  <div class="dropdown-content" style="left:0;">
  <a href="AssetLoader">Asset Loader</a>
  <a href="https://github.com/ScratchRemix/ScratchRemix.github.io" target="_newtab">Source Code</a>
- <a href="https://scratch.mit.edu/users/danielthebanana4" target="_newtab" class="b">@danielthebanana4</a> </div> </div>
+ <a href="https://scratch.mit.edu/users/danielthebanana4" target="_newtab" class="b">@danielthebanana4</a> </div>
 
 
 <span class="dash">&nbsp;</span>
