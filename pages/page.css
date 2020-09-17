@@ -118,14 +118,14 @@ color:#cf752d;
 }
 
 .dropdown-content a {
+  border-left: 1.2px solid #cf752d;
+  border-right: 1.2px solid #cf752d;
   color: white;
   background-color: #ef8734;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
   font-weight:bold;
-  border-left: 1.2px solid #cf752d;
-  border-right: 1.2px solid #cf752d;
   width:134px;
 }
 .dropdown-content a.b {
